@@ -1,0 +1,2 @@
+hello,hola,goodbye,adios,red,rojo,blue,azul,tired,casado,what,que,here,aqui,
+how,como,right,derecha,black,negro
